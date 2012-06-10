@@ -8,6 +8,8 @@
 
 #import "TFKViewController.h"
 
+#define ROW_HEIGHT 44.0f
+
 @interface TFKViewController ()
 
 @end
@@ -50,7 +52,6 @@
     }
     
     cell.textLabel.text = [NSString stringWithFormat:@"Row %d", indexPath.row];
-
     
     return cell;    
 }
@@ -78,21 +79,25 @@
     {
         return [NSString stringWithFormat:@"Row %d last selected", self.lastSelectedRow.row];
     }
-    
 }
 
 #pragma mark - view boilerplate
 
-- (void)viewDidLoad
+- (void)loadView
 {
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
+    CGRect applicationFrame = [UIScreen mainScreen].applicationFrame;
+    self.view = [[[UIView alloc] initWithFrame:CGRectMake(0.0f, 0.0f, applicationFrame.size.width, applicationFrame.size.height)]autorelease]; //49.0f is the height of the tabbar
+    self.view.backgroundColor = [UIColor clearColor];
 
-- (void)viewDidUnload
-{
-    [super viewDidUnload];
-    // Release any retained subviews of the main view.
+    self.tableView = [[[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStyleGrouped] autorelease];
+    self.tableView.frame = self.view.bounds;
+    self.tableView.delegate = self;
+    self.tableView.dataSource = self;
+    self.tableView.rowHeight = ROW_HEIGHT;
+    
+    self.tableView.scrollEnabled = NO; //Change this to 'YES' to work-around the bug
+    
+    [self.view addSubview:self.tableView];
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
