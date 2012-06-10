@@ -1,0 +1,5 @@
+PODS:
+  - KIF (0.0.1)
+
+DEPENDENCIES:
+  - KIF (~> 0.0.1)

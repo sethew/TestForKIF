@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TFKViewController : UIViewController
+@interface TFKViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>
+
+@property(nonatomic,retain) IBOutlet UITableView* tableView;
+@property(nonatomic,retain) NSIndexPath* lastSelectedRow;
 
 @end

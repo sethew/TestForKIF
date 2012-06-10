@@ -15,22 +15,45 @@
 		5DAE690815853A66003F62C7 /* TFKAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE690715853A66003F62C7 /* TFKAppDelegate.m */; };
 		5DAE690B15853A66003F62C7 /* TFKViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE690A15853A66003F62C7 /* TFKViewController.m */; };
 		5DAE690E15853A66003F62C7 /* TFKViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5DAE690C15853A66003F62C7 /* TFKViewController.xib */; };
+		5DAE692715854196003F62C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE690315853A66003F62C7 /* main.m */; };
+		5DAE692815854196003F62C7 /* TFKAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE690715853A66003F62C7 /* TFKAppDelegate.m */; };
+		5DAE692915854196003F62C7 /* TFKViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE690A15853A66003F62C7 /* TFKViewController.m */; };
+		5DAE692B15854196003F62C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DAE68F715853A66003F62C7 /* UIKit.framework */; };
+		5DAE692C15854196003F62C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DAE68F915853A66003F62C7 /* Foundation.framework */; };
+		5DAE692D15854196003F62C7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DAE68FB15853A66003F62C7 /* CoreGraphics.framework */; };
+		5DAE692E15854196003F62C7 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3307DBAA7A564954BA55F86D /* libPods.a */; };
+		5DAE693015854196003F62C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5DAE690015853A66003F62C7 /* InfoPlist.strings */; };
+		5DAE693115854196003F62C7 /* TFKViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5DAE690C15853A66003F62C7 /* TFKViewController.xib */; };
+		5DAE693C15854260003F62C7 /* TFKIntegTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE693B15854260003F62C7 /* TFKIntegTestController.m */; };
+		5DAE6940158542A8003F62C7 /* KIFTestScenario+TFKAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE693F158542A8003F62C7 /* KIFTestScenario+TFKAdditions.m */; };
+		5DAE6943158542BB003F62C7 /* KIFTestStep+TFKAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DAE6942158542BB003F62C7 /* KIFTestStep+TFKAdditions.m */; };
+		6477B259DF70492CABB33DA9 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3307DBAA7A564954BA55F86D /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B7F3DF8351C455183651247 /* Pods.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		3307DBAA7A564954BA55F86D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DAE68F315853A66003F62C7 /* TestForKIF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestForKIF.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DAE68F715853A66003F62C7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5DAE68F915853A66003F62C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5DAE68FB15853A66003F62C7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5DAE68FF15853A66003F62C7 /* TestForKIF-Info.plist */ = {isa = PBXFileReference; path = "TestForKIF-Info.plist"; sourceTree = "<group>"; };
+		5DAE68FF15853A66003F62C7 /* TestForKIF-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestForKIF-Info.plist"; sourceTree = "<group>"; };
 		5DAE690115853A66003F62C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5DAE690315853A66003F62C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5DAE690515853A66003F62C7 /* TestForKIF-Prefix.pch */ = {isa = PBXFileReference; path = "TestForKIF-Prefix.pch"; sourceTree = "<group>"; };
-		5DAE690615853A66003F62C7 /* TFKAppDelegate.h */ = {isa = PBXFileReference; path = TFKAppDelegate.h; sourceTree = "<group>"; };
+		5DAE690515853A66003F62C7 /* TestForKIF-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestForKIF-Prefix.pch"; sourceTree = "<group>"; };
+		5DAE690615853A66003F62C7 /* TFKAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TFKAppDelegate.h; sourceTree = "<group>"; };
 		5DAE690715853A66003F62C7 /* TFKAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TFKAppDelegate.m; sourceTree = "<group>"; };
-		5DAE690915853A66003F62C7 /* TFKViewController.h */ = {isa = PBXFileReference; path = TFKViewController.h; sourceTree = "<group>"; };
+		5DAE690915853A66003F62C7 /* TFKViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TFKViewController.h; sourceTree = "<group>"; };
 		5DAE690A15853A66003F62C7 /* TFKViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TFKViewController.m; sourceTree = "<group>"; };
 		5DAE690D15853A66003F62C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TFKViewController.xib; sourceTree = "<group>"; };
+		5DAE693615854196003F62C7 /* TestForKIF Integration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TestForKIF Integration.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DAE693815854196003F62C7 /* TestForKIF Integration-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "TestForKIF Integration-Info.plist"; path = "/Users/seth/Repositories/TestForKIF/TestForKIF Integration-Info.plist"; sourceTree = "<absolute>"; };
+		5DAE693A15854260003F62C7 /* TFKIntegTestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFKIntegTestController.h; sourceTree = "<group>"; };
+		5DAE693B15854260003F62C7 /* TFKIntegTestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFKIntegTestController.m; sourceTree = "<group>"; };
+		5DAE693E158542A8003F62C7 /* KIFTestScenario+TFKAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "KIFTestScenario+TFKAdditions.h"; sourceTree = "<group>"; };
+		5DAE693F158542A8003F62C7 /* KIFTestScenario+TFKAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "KIFTestScenario+TFKAdditions.m"; sourceTree = "<group>"; };
+		5DAE6941158542BB003F62C7 /* KIFTestStep+TFKAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "KIFTestStep+TFKAdditions.h"; sourceTree = "<group>"; };
+		5DAE6942158542BB003F62C7 /* KIFTestStep+TFKAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "KIFTestStep+TFKAdditions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +64,18 @@
 				5DAE68F815853A66003F62C7 /* UIKit.framework in Frameworks */,
 				5DAE68FA15853A66003F62C7 /* Foundation.framework in Frameworks */,
 				5DAE68FC15853A66003F62C7 /* CoreGraphics.framework in Frameworks */,
+				6477B259DF70492CABB33DA9 /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DAE692A15854196003F62C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DAE692B15854196003F62C7 /* UIKit.framework in Frameworks */,
+				5DAE692C15854196003F62C7 /* Foundation.framework in Frameworks */,
+				5DAE692D15854196003F62C7 /* CoreGraphics.framework in Frameworks */,
+				5DAE692E15854196003F62C7 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,6 +88,7 @@
 				5DAE68FD15853A66003F62C7 /* TestForKIF */,
 				5DAE68F615853A66003F62C7 /* Frameworks */,
 				5DAE68F415853A66003F62C7 /* Products */,
+				2B7F3DF8351C455183651247 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				5DAE68F315853A66003F62C7 /* TestForKIF.app */,
+				5DAE693615854196003F62C7 /* TestForKIF Integration.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,6 +107,7 @@
 				5DAE68F715853A66003F62C7 /* UIKit.framework */,
 				5DAE68F915853A66003F62C7 /* Foundation.framework */,
 				5DAE68FB15853A66003F62C7 /* CoreGraphics.framework */,
+				3307DBAA7A564954BA55F86D /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -83,6 +121,7 @@
 				5DAE690A15853A66003F62C7 /* TFKViewController.m */,
 				5DAE690C15853A66003F62C7 /* TFKViewController.xib */,
 				5DAE68FE15853A66003F62C7 /* Supporting Files */,
+				5DAE693D15854267003F62C7 /* KIF */,
 			);
 			path = TestForKIF;
 			sourceTree = "<group>";
@@ -91,11 +130,25 @@
 			isa = PBXGroup;
 			children = (
 				5DAE68FF15853A66003F62C7 /* TestForKIF-Info.plist */,
+				5DAE693815854196003F62C7 /* TestForKIF Integration-Info.plist */,
 				5DAE690015853A66003F62C7 /* InfoPlist.strings */,
 				5DAE690315853A66003F62C7 /* main.m */,
 				5DAE690515853A66003F62C7 /* TestForKIF-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5DAE693D15854267003F62C7 /* KIF */ = {
+			isa = PBXGroup;
+			children = (
+				5DAE693A15854260003F62C7 /* TFKIntegTestController.h */,
+				5DAE693B15854260003F62C7 /* TFKIntegTestController.m */,
+				5DAE693E158542A8003F62C7 /* KIFTestScenario+TFKAdditions.h */,
+				5DAE693F158542A8003F62C7 /* KIFTestScenario+TFKAdditions.m */,
+				5DAE6941158542BB003F62C7 /* KIFTestStep+TFKAdditions.h */,
+				5DAE6942158542BB003F62C7 /* KIFTestStep+TFKAdditions.m */,
+			);
+			name = KIF;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -108,6 +161,7 @@
 				5DAE68EF15853A66003F62C7 /* Sources */,
 				5DAE68F015853A66003F62C7 /* Frameworks */,
 				5DAE68F115853A66003F62C7 /* Resources */,
+				6435C6E77AB44F80A7140347 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -116,6 +170,24 @@
 			name = TestForKIF;
 			productName = TestForKIF;
 			productReference = 5DAE68F315853A66003F62C7 /* TestForKIF.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5DAE692515854196003F62C7 /* TestForKIF Integration */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5DAE693315854196003F62C7 /* Build configuration list for PBXNativeTarget "TestForKIF Integration" */;
+			buildPhases = (
+				5DAE692615854196003F62C7 /* Sources */,
+				5DAE692A15854196003F62C7 /* Frameworks */,
+				5DAE692F15854196003F62C7 /* Resources */,
+				5DAE693215854196003F62C7 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TestForKIF Integration";
+			productName = TestForKIF;
+			productReference = 5DAE693615854196003F62C7 /* TestForKIF Integration.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -141,6 +213,7 @@
 			projectRoot = "";
 			targets = (
 				5DAE68F215853A66003F62C7 /* TestForKIF */,
+				5DAE692515854196003F62C7 /* TestForKIF Integration */,
 			);
 		};
 /* End PBXProject section */
@@ -155,7 +228,47 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		5DAE692F15854196003F62C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DAE693015854196003F62C7 /* InfoPlist.strings in Resources */,
+				5DAE693115854196003F62C7 /* TFKViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5DAE693215854196003F62C7 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+		};
+		6435C6E77AB44F80A7140347 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5DAE68EF15853A66003F62C7 /* Sources */ = {
@@ -165,6 +278,19 @@
 				5DAE690415853A66003F62C7 /* main.m in Sources */,
 				5DAE690815853A66003F62C7 /* TFKAppDelegate.m in Sources */,
 				5DAE690B15853A66003F62C7 /* TFKViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5DAE692615854196003F62C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DAE692715854196003F62C7 /* main.m in Sources */,
+				5DAE692815854196003F62C7 /* TFKAppDelegate.m in Sources */,
+				5DAE692915854196003F62C7 /* TFKViewController.m in Sources */,
+				5DAE693C15854260003F62C7 /* TFKIntegTestController.m in Sources */,
+				5DAE6940158542A8003F62C7 /* KIFTestScenario+TFKAdditions.m in Sources */,
+				5DAE6943158542BB003F62C7 /* KIFTestStep+TFKAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,22 +361,65 @@
 		};
 		5DAE691215853A66003F62C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B7F3DF8351C455183651247 /* Pods.xcconfig */;
 			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestForKIF/TestForKIF-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "TestForKIF/TestForKIF-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		5DAE691315853A66003F62C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B7F3DF8351C455183651247 /* Pods.xcconfig */;
 			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestForKIF/TestForKIF-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "TestForKIF/TestForKIF-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		5DAE693415854196003F62C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B7F3DF8351C455183651247 /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestForKIF/TestForKIF-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+					"RUN_KIF_TESTS=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "TestForKIF Integration-Info.plist";
+				PRODUCT_NAME = "TestForKIF Integration";
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5DAE693515854196003F62C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B7F3DF8351C455183651247 /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TestForKIF/TestForKIF-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "TestForKIF Integration-Info.plist";
+				PRODUCT_NAME = "TestForKIF Integration";
+				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -274,6 +443,16 @@
 				5DAE691315853A66003F62C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5DAE693315854196003F62C7 /* Build configuration list for PBXNativeTarget "TestForKIF Integration" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DAE693415854196003F62C7 /* Debug */,
+				5DAE693515854196003F62C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

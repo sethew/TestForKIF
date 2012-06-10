@@ -10,6 +10,8 @@
 
 #import "TFKViewController.h"
 
+#import "TFKIntegTestController.h"
+
 @implementation TFKAppDelegate
 
 @synthesize window = _window;
@@ -29,6 +31,14 @@
     self.viewController = [[[TFKViewController alloc] initWithNibName:@"TFKViewController" bundle:nil] autorelease];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+#if RUN_KIF_TESTS
+    [[TFKIntegTestController sharedInstance] startTestingWithCompletionBlock:^{
+        // Exit after the tests complete so that CI knows we're done
+        exit([[TFKIntegTestController sharedInstance] failureCount]);
+    }];
+#endif
+    
     return YES;
 }
 

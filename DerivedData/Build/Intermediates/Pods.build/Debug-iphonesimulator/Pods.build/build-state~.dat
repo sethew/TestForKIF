@@ -1,0 +1,353 @@
+TPods
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth Pods-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F5A00C10000000000353830
+t1331298497
+s3487792
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c000000004FD50A0A00000000000006BB
+t1339361802
+s1723
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+c000000004FD509810000000000000145
+t1339361665
+s325
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+c000000004FD5098100000000000006EB
+t1339361665
+s1771
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+c000000004FD5098100000000000002EC
+t1339361665
+s748
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+c000000004FD509810000000000000965
+t1339361665
+s2405
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+c000000004FD5098100000000000007CC
+t1339361665
+s1996
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m
+c000000004FD509810000000000000738
+t1339361665
+s1848
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m
+c000000004FD509810000000000003C85
+t1339361665
+s15493
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+c000000004FD509810000000000000176
+t1339361665
+s374
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m
+c000000004FD5098100000000000050EE
+t1339361665
+s20718
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m
+c000000004FD5098100000000000011A3
+t1339361665
+s4515
+
+N/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m
+c000000004FD50981000000000000B798
+t1339361665
+s47000
+
+N/Users/seth/Repositories/TestForKIF/Pods/Pods-prefix.pch
+c000000004FD50981000000000000002F
+t1339361665
+s47
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m
+r0
+
+CBuild AST from /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7e35df8a4185b541^170fef8a4185b541^---0#1#0#--18"Check dependencies36"0A45163A-4057-45A5-B39C-3FE990003683-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.428942
+e361054603.456680
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m67ee6d8b4185b541^fbe8748b4185b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m0000000000000000^3264"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o KIF/Additions/CGGeometry-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/CGGeometry-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o36"EE67653F-9AFA-4B7E-82D4-05F87DEE544C-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.286174
+e361054603.427423
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m4f74498b4185b541^a96b6d8b4185b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m0000000000000000^3224"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o KIF/Classes/KIFTestController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestController.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestController.o36"E4094A81-2123-4AE2-BEC1-501A6A411FD4-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.286701
+e361054603.338267
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m4791498b4185b541^ff94568b4185b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m0000000000000000^3212"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o KIF/Classes/KIFTestScenario.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestScenario.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestScenario.o36"6A1A54AF-F926-48F3-86AF-FB1040F3BD18-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.339527
+e361054603.538502
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m0b0a578b4185b541^34db898b4185b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m0000000000000000^3188"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o KIF/Classes/KIFTestStep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Classes/KIFTestStep.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/KIFTestStep.o36"51816DE3-196D-4300-B58E-F99DD0DC8352-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.457977
+e361054603.502825
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m925d758b4185b541^08c7808b4185b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m0000000000000000^3282"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o KIF/Additions/NSFileManager-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/NSFileManager-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/NSFileManager-KIFAdditions.o36"633ADB0E-DB2D-457A-9B3B-85F177005AA2-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.504079
+e361054603.612279
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m0f2a818b4185b541^b0cb9c8b4185b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m0000000000000000^3336"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o KIF/Additions/UIAccessibilityElement-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIAccessibilityElement-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIAccessibilityElement-KIFAdditions.o36"C01F3852-E968-485A-9C48-4A7197174FA5-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.539777
+e361054603.641213
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.mb14d8a8b4185b541^7d25a48b4185b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m0000000000000000^3282"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o KIF/Additions/UIApplication-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIApplication-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIApplication-KIFAdditions.o36"9C991387-CACF-45AA-994D-9D028F1D7DD5-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.613511
+e361054603.703964
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m772d9d8b4185b541^853eb48b4185b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m0000000000000000^3276"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o KIF/Additions/UIScrollView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIScrollView-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIScrollView-KIFAdditions.o36"4A268E2F-0A81-4CC1-AE8D-33220ABBED5B-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.642483
+e361054603.702919
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.mf299a48b4185b541^9df7b38b4185b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m0000000000000000^3246"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o KIF/Additions/UITouch-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UITouch-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UITouch-KIFAdditions.o36"78C15EA0-7BF5-431D-A17E-BD12BA216B04-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.704290
+e361054603.800087
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.mba68b48b4185b541^5fcecc8b4185b541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m0000000000000000^3240"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o KIF/Additions/UIView-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIView-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIView-KIFAdditions.o36"0A385EC4-0DFD-4EAC-B907-261BEDC12F6E-
+
+CCompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054603.704504
+e361054603.734568
+r1
+xCompileC
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o
+x/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m6474b48b4185b541^3716bc8b4185b541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m0000000000000000^3252"CompileC /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o KIF/Additions/UIWindow-KIFAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.dia -c /Users/seth/Repositories/TestForKIF/Pods/KIF/Additions/UIWindow-KIFAdditions.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o36"BE4F01C3-73A0-4C23-B5F0-ED8D38EF9624-
+
+CLibtool /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s361054603.807115
+e361054603.847843
+r1
+xLibtool
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o has no symbols
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Libtool /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a normal i38628b6ce8b4185b541^3e23d98b4185b541^-548"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/CGGeometry-KIFAdditions.o has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/UIWindow-KIFAdditions.o has no symbols-0#0#0#--1079"Libtool /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/seth/Repositories/TestForKIF/Pods    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/libPods.a36"113B1E70-D771-428E-9025-66A30410B22F-
+
+CProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth Pods-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361054602.938661
+e361054603.279209
+r1
+xProcessPCH
+x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth
+xPods-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Precompile Pods-prefix.pch3867f08a4185b541^5379478b4185b541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/seth/Repositories/TestForKIF/Pods/Pods-prefix.pch0000000000000000^3028"ProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth Pods-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DRUN_KIF_TESTS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/Pods/Headers -I/Users/seth/Repositories/TestForKIF/Pods/Headers/KIF -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.dia -c /Users/seth/Repositories/TestForKIF/Pods/Pods-prefix.pch -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.pth -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/Pods-prefix-cxpyybqoufnbxrgmklsyojeqsuwt/Pods-prefix.pch.d36"7BAAC0D1-A7E4-49F3-BBA4-5480E73A5C4B-
+
+CProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/TestForKIF/Index/PrecompiledHeaders/Pods-prefix-ggtkqggpfxsncpeekvmbgijnkhdr_ast/Pods-prefix.pch.pth Pods-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
