@@ -1,240 +1,0 @@
-TTestForKIF
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist TestForKIF/TestForKIF-Info.plist
-cProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth TestForKIF/TestForKIF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o /Users/seth/Repositories/TestForKIF/TestForKIF/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o /Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o /Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF normal i386
-cGenerateDSYMFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF
-cCopyStringsFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/InfoPlist.strings TestForKIF/en.lproj/InfoPlist.strings
-cCompileXIB /Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib
-cTouch /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
-c000000004F453DF80000000000000110
-t1329937912
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004F5A00BE0000000000244490
-t1331298494
-s2376848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004F5A00C10000000000353830
-t1331298497
-s3487792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004F5A00CB0000000000905E40
-t1331298507
-s9461312
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TestForKIF.LinkFileList
-c000000004FD5039300000000000001DC
-t1339360147
-s476
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/PkgInfo
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/TFKViewController.nib
-t2
-s0
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m
-c000000004FD502E600000000000009D8
-t1339359974
-s2520
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m
-c000000004FD50384000000000000066D
-t1339360132
-s1645
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/TestForKIF-Prefix.pch
-c000000004FD502E60000000000000143
-t1339359974
-s323
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/InfoPlist.strings
-c000000004FD502E6000000000000002D
-t1339359974
-s45
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib
-c000000004FD503860000000000001E57
-t1339360134
-s7767
-
-N/Users/seth/Repositories/TestForKIF/TestForKIF/main.m
-c000000004FD502E60000000000000154
-t1339359974
-s340
-
-NTestForKIF/TestForKIF-Info.plist
-c000000004FD502E6000000000000048C
-t1339359974
-s1164
-
-CBuild AST from /Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m
-r0
-
-CBuild AST from /Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m
-r0
-
-CBuild AST from /Users/seth/Repositories/TestForKIF/TestForKIF/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfcfc53133b85b541^4dbbd4133b85b541^---0#1#0#--18"Check dependencies36"45DBC418-908E-4C71-821E-76C04CE2930C-
-
-CCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o /Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s361052948.371292
-e361052948.460279
-r1
-xCompileC
-xDerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o
-x/Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.mee275f143b85b541^76e375143b85b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m0000000000000000^3644"CompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o TestForKIF/TFKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-generated-files.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-own-target-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-all-target-headers.hmap -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-project-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.dia -c /Users/seth/Repositories/TestForKIF/TestForKIF/TFKAppDelegate.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKAppDelegate.o36"C85C5020-1EB3-45A9-807C-FF7426F34557-
-
-CCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o /Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s361052948.445632
-e361052948.503948
-r1
-xCompileC
-xDerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o
-x/Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m013472143b85b541^860381143b85b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m0000000000000000^3662"CompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o TestForKIF/TFKViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-generated-files.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-own-target-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-all-target-headers.hmap -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-project-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.dia -c /Users/seth/Repositories/TestForKIF/TestForKIF/TFKViewController.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TFKViewController.o36"D4210CFB-89EE-4BA9-A603-22DF0858070E-
-
-CCompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o /Users/seth/Repositories/TestForKIF/TestForKIF/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s361052948.370685
-e361052948.444423
-r1
-xCompileC
-xDerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o
-x/Users/seth/Repositories/TestForKIF/TestForKIF/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/seth/Repositories/TestForKIF/TestForKIF/main.m6c075f143b85b541^13d371143b85b541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/main.m0000000000000000^3584"CompileC DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o TestForKIF/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-generated-files.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-own-target-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-all-target-headers.hmap -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-project-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.dia -c /Users/seth/Repositories/TestForKIF/TestForKIF/main.m -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/main.o36"7708E06B-5614-4ECA-929B-72C5BE53750B-
-
-CCompileXIB /Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib
-s361052948.599222
-e361052948.621967
-r1
-xCompileXIB
-x/Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib967799143b85b541^e1459f143b85b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib0000000000000000^961"CompileXIB TestForKIF/en.lproj/TFKViewController.xib    cd /Users/seth/Repositories/TestForKIF    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/TFKViewController.nib /Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/TFKViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"D564D8D3-0CBF-4326-A0ED-8107C990ED12-
-
-CCopyStringsFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/InfoPlist.strings TestForKIF/en.lproj/InfoPlist.strings
-s361052948.598730
-e361052948.603290
-r1
-xCopyStringsFile
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/InfoPlist.strings
-xTestForKIF/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy TestForKIF/en.lproj/InfoPlist.stringsab5b99143b85b541^7a719a143b85b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/en.lproj/InfoPlist.strings0000000000000000^685"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj/InfoPlist.strings TestForKIF/en.lproj/InfoPlist.strings    cd /Users/seth/Repositories/TestForKIF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/en.lproj -- TestForKIF/en.lproj/InfoPlist.strings36"0830A852-E6FD-4A90-A3BA-D8F820719E55-
-
-CGenerateDSYMFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF
-s361052948.571259
-e361052948.589941
-r1
-xGenerateDSYMFile
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Generating /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYMfc5392143b85b541^9d0f97143b85b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM000000000080d041^789"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF    cd /Users/seth/Repositories/TestForKIF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app.dSYM36"F9973CDE-7A6C-4B14-93EA-831EBD55F329-
-
-CLd /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF normal i386
-s361052948.511752
-e361052948.563573
-r1
-xLd
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF1d1d83143b85b541^475490143b85b541^---0#0#0#--1328"Ld DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF normal i386    cd /Users/seth/Repositories/TestForKIF    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/Objects-normal/i386/TestForKIF.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/TestForKIF36"EFA7259F-5972-4B79-A42A-EDC7BE6BDEAF-
-
-CProcessInfoPlistFile /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist TestForKIF/TestForKIF-Info.plist
-s361052947.835714
-e361052947.840217
-r1
-xProcessInfoPlistFile
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist
-xTestForKIF/TestForKIF-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process TestForKIF/TestForKIF-Info.plist2d07d6133b85b541^ab23d7133b85b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/TestForKIF-Info.plist0000000000000000^787"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist TestForKIF/TestForKIF-Info.plist    cd /Users/seth/Repositories/TestForKIF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility TestForKIF/TestForKIF-Info.plist -genpkginfo /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app/Info.plist36"8B9535E1-0991-481A-87EB-B05177ABAFAC-
-
-CProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth TestForKIF/TestForKIF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s361052947.848179
-e361052948.363806
-r1
-xProcessPCH
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth
-xTestForKIF/TestForKIF-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile TestForKIF/TestForKIF-Prefix.pch124cd9133b85b541^1e365d143b85b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/seth/Repositories/TestForKIF/TestForKIF/TestForKIF-Prefix.pch0000000000000000^3490"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth TestForKIF/TestForKIF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/seth/Repositories/TestForKIF    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-generated-files.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-own-target-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-all-target-headers.hmap -iquote /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/TestForKIF-project-headers.hmap -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources/i386 -I/Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/TestForKIF.build/Debug-iphonesimulator/TestForKIF.build/DerivedSources -F/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.dia -c /Users/seth/Repositories/TestForKIF/TestForKIF/TestForKIF-Prefix.pch -o /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.pth -MMD -MT dependencies -MF /Users/seth/Repositories/TestForKIF/DerivedData/Build/Intermediates/PrecompiledHeaders/TestForKIF-Prefix-bipbmgteaxtsttasueqhkbkdfeah/TestForKIF-Prefix.pch.d36"739ECBC6-30CC-417A-98B0-D106C535610F-
-
-CProcessPCH /Users/seth/Repositories/TestForKIF/DerivedData/TestForKIF/Index/PrecompiledHeaders/TestForKIF-Prefix-dwjerxmknfjmynatofqccbddqygi_ast/TestForKIF-Prefix.pch.pth TestForKIF/TestForKIF-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app
-s361052948.632132
-e361052948.638786
-r1
-xTouch
-x/Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app25e6a1143b85b541^b092a3143b85b541^---0#0#0#--492"Touch DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app    cd /Users/seth/Repositories/TestForKIF    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/seth/Repositories/TestForKIF/DerivedData/Build/Products/Debug-iphonesimulator/TestForKIF.app36"5833E356-1CF3-4DE1-881A-9C15DDF37B69-
-

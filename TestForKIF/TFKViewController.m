@@ -17,6 +17,14 @@
 @synthesize tableView=_tableView;
 @synthesize lastSelectedRow=_lastSelectedRow;
 
+#pragma mark - UIAlertViewDelegate protocol methods
+
+- (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex
+{
+    [self.tableView deselectRowAtIndexPath:[self.tableView indexPathForSelectedRow] animated:YES];
+    [self.tableView reloadSections:[NSIndexSet indexSetWithIndex:0] withRowAnimation:UITableViewRowAnimationFade];
+}
+
 #pragma mark - table view delegate / data source
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
@@ -49,9 +57,15 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"UIAlertView" 
+                                                        message:@"A Wild Modal Dialog Appeared"
+                                                       delegate:self 
+                                              cancelButtonTitle:nil 
+                                              otherButtonTitles:@"OK", nil];
+    [alertView show];
+    [alertView release];
+
     self.lastSelectedRow = indexPath;
-    [tableView reloadSections:[NSIndexSet indexSetWithIndex:0] withRowAnimation:UITableViewRowAnimationFade];
-    [tableView deselectRowAtIndexPath:indexPath animated:YES];
 }
 
 - (NSString *)tableView:(UITableView *)tableView titleForFooterInSection:(NSInteger)section

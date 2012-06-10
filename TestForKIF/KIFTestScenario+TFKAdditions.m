@@ -15,8 +15,9 @@
 {
     KIFTestScenario *scenario = [KIFTestScenario scenarioWithDescription:@"Test that two tablecells can be tapped in the same tableview."];
     [scenario addStep:[KIFTestStep stepToTapViewWithAccessibilityLabel:@"Row 0"]];
+    [scenario addStep:[KIFTestStep stepToTapViewWithAccessibilityLabel:@"OK"]];
     [scenario addStep:[KIFTestStep stepToTapViewWithAccessibilityLabel:@"Row 1"]];
-    
+    [scenario addStep:[KIFTestStep stepToTapViewWithAccessibilityLabel:@"OK"]];    
     return scenario;
 }
 
